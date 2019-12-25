@@ -5,4 +5,4 @@ in order to achieve a decent amount of accuracy by using the basic algorithms an
 
 Report does tell the basic methods and principles that have been followed throughout the process and illustare the basic results.
 
-##### Feel free to explore and commment wherever you think appropriate to.
+##### Feel free to explore and comment wherever you think appropriate to.
