@@ -9,3 +9,5 @@ Under no circumstances do I completely own the rights for this code.
 The writer does not have any responsibility for any usage that does not follow the principles of academic integrity and/or lies under academic misconduct rules.
 
 #### Feel free to explore.
+
+This is a Grumpy project :))
